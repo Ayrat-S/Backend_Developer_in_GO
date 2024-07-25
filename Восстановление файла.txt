@@ -1,0 +1,19 @@
+Файл можно восстановить только если он коммиченный:
+
+
+touch 4.txt
+
+git status
+
+git add 4.txt
+
+git commit -m "New"
+
+git rm 4.txt
+
+git status
+
+git restore 4.txt
+
+
+
