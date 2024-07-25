@@ -11,7 +11,7 @@ git commit -m "New"
 
 git rm 4.txt
 
-git status
+git status (без этой предварительной команды файл не восстанавливается)
 
 git restore 4.txt
 
